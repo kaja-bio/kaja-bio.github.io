@@ -2,7 +2,7 @@
 layout: distill
 title: neural shit
 description: [please work]
-tags: distill formatting
+tags: neural
 giscus_comments: true
 date: 2024-02-28
 featured: true
