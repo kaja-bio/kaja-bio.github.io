@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kaja-bio.github.io/sitemap.xml
+Sitemap: https://kaja-bio.github.io/kaja-bio//sitemap.xml
