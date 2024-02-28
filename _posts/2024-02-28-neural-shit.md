@@ -1,14 +1,14 @@
 ---
 layout: distill
-title: a distill-style blog post
-description: an example of a distill-style blog post and main elements
+title: neural shit
+description: [please work]
 tags: distill formatting
 giscus_comments: true
-date: 2021-05-22
+date: 2024-02-28
 featured: true
 
 authors:
-  - name: Albert Einstein
+  - name: ME AAA
     url: "https://en.wikipedia.org/wiki/Albert_Einstein"
     affiliations:
       name: IAS, Princeton
