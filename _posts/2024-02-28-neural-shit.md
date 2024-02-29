@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Navigation Strategies : intro
+title: Navigation Strategies
 description: [navigation]
 tags: neural
 giscus_comments: true
