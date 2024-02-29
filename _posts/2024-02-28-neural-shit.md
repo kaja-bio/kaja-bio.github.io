@@ -87,7 +87,7 @@ Studying path integration is
       How do we do *that?*
 
 
-  {% include figure.liquid path="imagez/pi_exp_1.png" alt="pi 1" class="img-fluid rounded z-depth-1" zoomable=true %}
+  {% include figure.liquid path="./imagez/pi_exp_1.png" alt="pi 1" class="img-fluid rounded z-depth-1" zoomable=true %}
 
  One way of studying path integration is using virtual reality. Mice run through a VR corridor on a treadmill until
     there’s a visual cue. If they stop at the visual cue, they get a treat. After a few repetitions, the visual cue is
