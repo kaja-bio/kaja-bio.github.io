@@ -79,8 +79,35 @@ Two types of sensory information are required to update where we think we are: *
 #how tf do i integrate a phaser game in here?
 
 <div class="l-page">
-  {% include figure.liquid path="./assets/img/images/mouse_integration.png" alt="mouse integration" class="img-fluid rounded z-depth-1" zoomable=true %}
-</div>
+  {% include figure.liquid path="./assets/img/images/mouse_integration" alt="mouse integration" class="img-fluid rounded z-depth-1" zoomable=true %}</div>
+
+Studying path integration is
+      complicated by the fact that it’s only one part of the mechanism behind navigation. It’s an error-prone system,
+      and so it works in combination with other information to create a path - for example, a mouse might use remembered
+      landmarks, olfaction and even way-marking to navigate through an environment. Studying the neurons specifically
+      involved in path integration therefore requires us to remove all other possibilities but using path integration.
+      How do we do *that?*
+
+<div class="l-page">
+  {% include figure.liquid path="./assets/img/images/pi_exp_1.png" alt="pi 1" class="img-fluid rounded z-depth-1" zoomable=true %}</div>
+
+ One way of studying path integration is using virtual reality. Mice run through a VR corridor on a treadmill until
+    there’s a visual cue. If they stop at the visual cue, they get a treat. After a few repetitions, the visual cue is
+    removed - yet the mice still stop in the place where the visual cue *would have been*. If there are no external cues for
+    the mice to see, how do they know when to stop?
+    
+    The mice can’t use other navigational strategies, such as beaconing, because there’s no allothetic cues, so they’re left with path integration. They might have remembered the time it took to run to the reward zone - but when the speed of the treadmill was changed, the mice didn’t overshoot the reward zone, despite running faster. This implies they weren’t measuring the time, but were instead getting their information from a collection of self-motion cues. This includes proprioception (the sense of your self-position and self-movement) along with the vestibular system (your inner ear, which provides a sense of balance and awareness of our head and body in
+    space) and motor efference. Over longer distances, the accuracy of this system drops without external input such as landmarks, as small errors start to accumulate and the mice start to stop further away from the reward zone. 
+
+    <div class="l-page">
+  {% include figure.liquid path="../assets/img/images/pi_exp_2.png" alt="pi 1" class="img-fluid rounded z-depth-1" zoomable=true %}</div>>
+
+  ## Cell types
+
+  Path integration is just one of the many navigational strategies we want to study to understand the basis of the neural map. There are many specialised cell types involved in navigation. For the purpose of this website, let’s focus on three: place cells, grid cells, and head direction cells.
+
+  {% include figure.liquid path="assets/img/images/cell_types.png" alt="cell types" class="img-fluid rounded z-depth-1" zoomable=true %}</div>
+
 ---
 
 ## Footnotes
