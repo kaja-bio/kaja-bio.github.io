@@ -79,7 +79,7 @@ Two types of sensory information are required to update where we think we are: *
 #how tf do i integrate a phaser game in here?
 
 <div class="l-page">
-  {% include figure.liquid path="assets/img/images/mouse_integration.png" alt="mouse integration" class="img-fluid rounded z-depth-1" zoomable=true %}
+  {% include figure.liquid path="./assets/img/images/mouse_integration.png" alt="mouse integration" class="img-fluid rounded z-depth-1" zoomable=true %}
 </div>
 ---
 
