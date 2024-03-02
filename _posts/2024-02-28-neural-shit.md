@@ -34,6 +34,7 @@ toc:
   - name: Layouts
   - name: Other Typography?
 ---
+<link rel="stylesheet" type="text/css" href="../assets/css/custom.css">
 
 ## The Neural Map
 
