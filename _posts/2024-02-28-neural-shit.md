@@ -34,7 +34,7 @@ toc:
   - name: Layouts
   - name: Other Typography?
 ---
-<link rel="stylesheet" type="text/css" href="../assets/css/custom.css">
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/custom.css">
 
 ## The Neural Map
 
@@ -65,7 +65,7 @@ Two types of sensory information are required to update where we think we are: *
 Studying path integration is complicated by the fact that it’s only one part of the mechanism behind navigation. It’s an error-prone system, and so it works in combination with other information to create a path - for example, a mouse might use remembered landmarks, olfaction and even way-marking to navigate through an environment. Studying the neurons specifically involved in path integration therefore requires us to remove all other possibilities but using path integration.
 How do we do *that?*
 
-{% include figure.liquid path="../../assets/img/images/pi_exp_p1.png" alt="pi 1" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="../../assets/img/images/pi_exp_1.png" alt="pi 1" class="img-fluid rounded z-depth-1" zoomable=true %}
 
 
  One way of studying path integration is using virtual reality. Mice run through a VR corridor on a treadmill until there’s a visual cue. If they stop at the visual cue, they get a treat. After a few repetitions, the visual cue is removed - yet the mice still stop in the place where the visual cue *would have been*. If there are no external cues for the mice to see, how do they know when to stop?
