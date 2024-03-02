@@ -79,23 +79,22 @@ How do we do *that?*
 
   Path integration is just one of the many navigational strategies we want to study to understand the basis of the neural map. There are many specialised cell types involved in navigation. For the purpose of this website, let’s focus on three: place cells, grid cells, and head direction cells.
 
-  <div class="image-container">
-    <img class="comic" src="./images/cell_types.png" alt="cell types">
-     <div class="hover-textbox">
+<div class="image-container">
+  <img class="comic" src="./images/cell_types.png" alt="cell types">
+  <div class="hover-textbox">   
+  **Grid cells**
       
-      **Grid cells**
-      are place-modulated neurons located primarily in the entorhinal cortex that fire periodically in space, mapping a triangular grid across an environment. As an animal moves through space, grid cells fire to create hexagonal patterns that allow us to map this space. Again, a population of grid cells alone can encode a spatial map
+are place-modulated neurons located primarily in the entorhinal cortex that fire periodically in space, mapping a triangular grid across an environment. As an animal moves through space, grid cells fire to create hexagonal patterns that allow us to map this space. Again, a population of grid cells alone can encode a spatial map
 
-      **Place cells**
-      located in the hippocampus, fire when an animal enters a specific location in space. A population of place cells alone can encode a spatial map.
+  **Place cells**
+  located in the hippocampus, fire when an animal enters a specific location in space. A population of place cells alone can encode a spatial map.
 
-      **Head direction cells**
+  **Head direction cells**
       are primarily found in the postsubiculum, and provide directional information by preferentially firing in specific directions. A population of head direction cells can encode which direction you are facing in your spatial map.
 
-      These cells potentially have uses outside of encoding physical space - their coding mechanism may be used for more general problem sets, such as cognitive mapping. Cognitive mapping refers to swapping out the three-dimensional world we interact with for a different, continuous dimension that represents an abstract concept. The same way we might encode the map of our room, we might use the hexagonal-firing properties of grid cells to represent, for example, conceptual spaces, such as hierarchically organizing ideas within our brain, or recording temporal sequences of events.
+  These cells potentially have uses outside of encoding physical space - their coding mechanism may be used for more general problem sets, such as cognitive mapping. Cognitive mapping refers to swapping out the three-dimensional world we interact with for a different, continuous dimension that represents an abstract concept. The same way we might encode the map of our room, we might use the hexagonal-firing properties of grid cells to represent, for example, conceptual spaces, such as hierarchically organizing ideas within our brain, or recording temporal sequences of events.
 
-    </div>
-  </div>
+</div>
 </div>
 
 ---
