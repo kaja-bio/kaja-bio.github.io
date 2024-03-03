@@ -34,7 +34,6 @@ toc:
   - name: Layouts
   - name: Other Typography?
 ---
-<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/custom.css">
 
 ## The Neural Map
 
@@ -80,10 +79,10 @@ How do we do *that?*
   Path integration is just one of the many navigational strategies we want to study to understand the basis of the neural map. There are many specialised cell types involved in navigation. For the purpose of this website, let’s focus on three: place cells, grid cells, and head direction cells.
 
 <div class="image-container">
-  <img class="comic" src="./images/cell_types.png" alt="cell types">
-  <div class="hover-textbox">   
-  **Grid cells**
-      
+<img class="comic" src="./images/cell_types.png" alt="cell types">
+<div class="hover-textbox">   
+  
+  **Grid cells**     
 are place-modulated neurons located primarily in the entorhinal cortex that fire periodically in space, mapping a triangular grid across an environment. As an animal moves through space, grid cells fire to create hexagonal patterns that allow us to map this space. Again, a population of grid cells alone can encode a spatial map
 
   **Place cells**
