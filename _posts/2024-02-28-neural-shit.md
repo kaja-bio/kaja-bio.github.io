@@ -72,14 +72,15 @@ How do we do *that?*
   The mice can’t use other navigational strategies, such as beaconing, because there’s no allothetic cues, so they’re left with path integration. They might have remembered the time it took to run to the reward zone - but when the speed of the treadmill was changed, the mice didn’t overshoot the reward zone, despite running faster. This implies they weren’t measuring the time, but were instead getting their information from a collection of self-motion cues. This includes proprioception (the sense of your self-position and self-movement) along with the vestibular system (your inner ear, which provides a sense of balance and awareness of our head and body in
   space) and motor efference. Over longer distances, the accuracy of this system drops without external input such as landmarks, as small errors start to accumulate and the mice start to stop further away from the reward zone. 
 
-  {% include figure.liquid path="../assets/img/images/pi_exp_2.png" alt="pi 1" class="img-fluid rounded z-depth-1" zoomable=true %}</div>>
+  {% include figure.liquid path="../assets/img/images/pi_exp_2.png" alt="pi 1" class="img-fluid rounded z-depth-1" zoomable=true %}
 
 ## Cell types
 
   Path integration is just one of the many navigational strategies we want to study to understand the basis of the neural map. There are many specialised cell types involved in navigation. For the purpose of this website, let’s focus on three: place cells, grid cells, and head direction cells.
 
 <div class="image-container">
-<img class="comic" src="./images/cell_types.png" alt="cell types">
+{% include figure.liquid path="../assets/img/images/pi_exp_2.png" alt="pi 1" class="img-fluid rounded z-depth-1 comic" zoomable=true %}
+
 <div class="hover-textbox">   
   
   **Grid cells**     
