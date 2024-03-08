@@ -7,8 +7,8 @@ class titleScene extends Phaser.Scene {
 
   preload(){
     console.log("title")
-    this.load.image( 'titleScenebackgroundimage', 'img/images/titlebackground.png');
-    this.load.image('startButton', 'img/images/start_button.png')
+    this.load.image( 'titleScenebackgroundimage', '../img/images/titlebackground.png');
+    this.load.image('startButton', '../img/images/start_button.png')
   }
   create (data){
     this.titleScenebackgroundimage = this.add.sprite(0,0, 'titleScenebackgroundimage').setOrigin(0,0);;

@@ -4,8 +4,8 @@ class nightScene extends Phaser.Scene {
   }
 
   preload(){
-    this.load.image("nightbg", "./img/images/night_background_real.png");
-    this.load.image("player", "./img/images/casper_asleep.png");
+    this.load.image("nightbg", "../img/images/night_background_real.png");
+    this.load.image("player", "../img/images/casper_asleep.png");
   }
   create (data){
   this.nightbg = this.add.sprite(0, 0, "nightbg").setOrigin(0,0);

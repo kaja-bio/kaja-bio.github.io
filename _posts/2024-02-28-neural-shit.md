@@ -54,7 +54,7 @@ Oh no! It's 2am and you're woken up in what an optimist would call a 'puddle', a
 
 You and your friend make the decision to trek back to the car park. You wish one of you had brought a headlamp at least - you can't use any landmarks to navigate. Despite that, you somehow manage to make it back in one piece, going straight from the campsite to the carpark without any of the diversions you had undertaken on the way there. *How?*
 
-<div id="gameCanvas1"></div>
+<div id="gameCanvas1"> </div>
 
 
 **INSERT PHASER GAME**
