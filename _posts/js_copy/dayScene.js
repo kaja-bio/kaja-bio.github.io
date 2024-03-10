@@ -4,15 +4,15 @@ class dayScene extends Phaser.Scene {
     super({ key: 'dayScene' });
   }
 
-  preload() {
-    this.load.image("bg", "../img/images/hiking_background_textbox_green.png");
-    this.load.image("start", "../img/images/car.png");
-    this.load.image("tent", "../img/images/tent.png");
-    this.load.image("lake", "./img/images/lake_real.png"); //REDO THIS WITH TRANSPARENT BACKGROUND 
-    this.load.image("mountain", "../img/images/mountain.png");
-    this.load.image("food", "../img/images/food_stall.png");
-    this.load.image("bg_night", "../img/images/night_background.png");
-    this.load.image("player", "../img/images/casper.png");
+  preload() {./img
+    this.load.image("bg", "images_copy/hiking_background_textbox_green.png");
+    this.load.image("start", "images_copy/car.png");
+    this.load.image("tent", "images_copy/tent.png");
+    this.load.image("lake", "images_copy/lake_real.png"); //REDO THIS WITH TRANSPARENT BACKGROUND 
+    this.load.image("mountain", "images_copy/mountain.png");
+    this.load.image("food", "images_copy/food_stall.png");
+    this.load.image("bg_night", "images_copy/night_background.png");
+    this.load.image("player", "images_copy/casper.png");
   }
   create(data, time, game) {
     this.bg = this.add.sprite(0, 0, "bg").setOrigin(0, 0);

@@ -4,7 +4,7 @@ class endScene extends Phaser.Scene {
   }
 
   preload(){
-    this.load.image("endbg", "../img/images/end_scene.png");
+    this.load.image("endbg", "images_copy/end_scene.png");
   }
   create(data){
     this.endbg = this.add.sprite(0, 0, "endbg").setOrigin(0,0);
