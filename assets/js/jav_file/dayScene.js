@@ -4,7 +4,7 @@ class dayScene extends Phaser.Scene {
     super({ key: 'dayScene' });
   }
 
-  preload() {./img
+  preload() {
     this.load.image("bg", "images_copy/hiking_background_textbox_green.png");
     this.load.image("start", "images_copy/car.png");
     this.load.image("tent", "images_copy/tent.png");
