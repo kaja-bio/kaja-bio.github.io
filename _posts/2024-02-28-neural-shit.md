@@ -98,6 +98,6 @@ How do we do *that?*
 ---
 
 <script src="https://cdn.jsdelivr.net/npm/phaser@3.60.0/dist/phaser-arcade-physics.min.js"></script>
-<script  type="module" src="jekyll-neural-map/Path_integration/js/main.js"></script>
+<script  type="module" src="game_folder/js/main.js"></script>
 
 
